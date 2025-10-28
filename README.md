@@ -49,3 +49,4 @@ pip install tensorflow keras
 # Start with AI-enhanced mode
 npm run start:ai
 "## FAQ""## FAQ" 
+"update" 
